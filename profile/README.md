@@ -1,4 +1,4 @@
-> liefOS is still under active development.
+> liefOS is still under active development. All repos are still privated and only certain people has access.
 
 # About liefOS and its story
 
